@@ -15,7 +15,7 @@ Dzięki eksploracji danych i analizie z użyciem tabel przestawnych zidentyfikow
 2. **Silna sezonowość Q4:** Zarówno rok 2003, jak i 2004 wykazują potężne szczyty sprzedaży w listopadzie, co jest napędzane przygotowaniami do sezonu świątecznego.
 3. **Globalny rozkład przychodów:** Rynek USA jest absolutnym fundamentem biznesu, odpowiadając za 36% całkowitego przychodu globalnego (3,6 mln USD). Kolejne kluczowe rynki to Hiszpania (1,2 mln USD) i Francja (1,1 mln USD).
 
-## Wykorzystane Umiejętności Techniczne 🛠️
+## Wykorzystane Umiejętności Techniczne
 * **Oczyszczanie i Przygotowanie Danych:** Transformacja surowych danych `.csv` w ustrukturyzowane Tabele Excel.
 * **Modelowanie Danych:** Budowa warstwy obliczeniowej za pomocą **Tabel Przestawnych**.
 * **Wizualizacja Danych:** Tworzenie **Wykresów Przestawnych** (Liniowe, Paskowe, Kołowe, Mapa) z formowaniem warunkowym (podświetlenie wartości ujemnych).
