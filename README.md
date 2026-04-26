@@ -1,4 +1,4 @@
-# Dashboard Sprzedażowy dla Kadry Kierowniczej (2003-2005) 📊
+# Dashboard Sprzedażowy dla Kadry Kierowniczej (2003-2005) 
 
 ## Opis Projektu
 Ten projekt to interaktywny dashboard w programie Excel, stworzony do analizy historii danych sprzedażowych, odkrywania trendów przychodów oraz identyfikacji nieefektywności w strategiach cenowych. Celem było przekształcenie surowych danych o sprzedaży w konkretne wnioski biznesowe i rekomendacje.
@@ -6,14 +6,14 @@ Ten projekt to interaktywny dashboard w programie Excel, stworzony do analizy hi
 ![Podgląd Dashboardu](dashboard_preview.png)
 *(Uwaga: Interaktywny plik `.xlsx` z tabelami i modelem danych znajduje się w repozytorium).*
 
-## Wnioski Biznesowe i Rekomendacje 💡
+## Wnioski Biznesowe i Rekomendacje 
 
 Dzięki eksploracji danych i analizie z użyciem tabel przestawnych zidentyfikowałem kilka kluczowych czynników wpływających na wynik firmy:
 
-1. 🚨 **Błąd strategii cenowej (Wyciek marży):** Odkryłem znaczący problem z flagową linią produktów "Classic Cars". Mimo że generuje ona niemal 40% przychodów firmy, jest to *jedyna* kategoria, która notuje ujemny bilans narzutów/rabatów (-164 tys. USD względem ceny sugerowanej MSRP).
+1. **Błąd strategii cenowej (Wyciek marży):** Odkryłem znaczący problem z flagową linią produktów "Classic Cars". Mimo że generuje ona niemal 40% przychodów firmy, jest to *jedyna* kategoria, która notuje ujemny bilans narzutów/rabatów (-164 tys. USD względem ceny sugerowanej MSRP).
    * **Rekomendacja:** Zmniejszenie agresywnego rabatowania tej kategorii przy zamówieniach średniej wielkości ("Medium"), aby przetestować elastyczność cenową i odzyskać utraconą marżę.
-2. 📆 **Silna sezonowość Q4:** Zarówno rok 2003, jak i 2004 wykazują potężne szczyty sprzedaży w listopadzie, co jest napędzane przygotowaniami do sezonu świątecznego.
-3. 🌍 **Globalny rozkład przychodów:** Rynek USA jest absolutnym fundamentem biznesu, odpowiadając za 36% całkowitego przychodu globalnego (3,6 mln USD). Kolejne kluczowe rynki to Hiszpania (1,2 mln USD) i Francja (1,1 mln USD).
+2. **Silna sezonowość Q4:** Zarówno rok 2003, jak i 2004 wykazują potężne szczyty sprzedaży w listopadzie, co jest napędzane przygotowaniami do sezonu świątecznego.
+3. **Globalny rozkład przychodów:** Rynek USA jest absolutnym fundamentem biznesu, odpowiadając za 36% całkowitego przychodu globalnego (3,6 mln USD). Kolejne kluczowe rynki to Hiszpania (1,2 mln USD) i Francja (1,1 mln USD).
 
 ## Wykorzystane Umiejętności Techniczne 🛠️
 * **Oczyszczanie i Przygotowanie Danych:** Transformacja surowych danych `.csv` w ustrukturyzowane Tabele Excel.
